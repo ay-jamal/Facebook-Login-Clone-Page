@@ -130,6 +130,7 @@ form input {
 @media (max-width: 950px) {
   .container {
     flex-direction: column;
+    justify-content: center;
   }
 
   .left {
